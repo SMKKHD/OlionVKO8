@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HomeWork8</string>
+    <string-array name="Bottles">
+        <item>Pepsi</item>
+        <item>Coke</item>
+        <item>Fanta</item>
+        <item>Jaffa</item>
+        <item>Muumi</item>
+    </string-array>
+
+    <string-array name="Size">
+        <item>1,5l</item>
+        <item>1,0l</item>
+        <item>0,75l</item>
+        <item>0,5l</item>
+
+    </string-array>
+</resources>
